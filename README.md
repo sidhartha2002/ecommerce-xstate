@@ -1,4 +1,4 @@
-# Serverless e-Commerce App  👕👖🦺🥽🩳🧣🧦🩲👚🥻
+# Serverless e-Commerce App  👕👖🦺🥽🩳🧣🧦👚🥻
 
 ## 🧑‍🤝‍🧑This is e-commerce store for users: https://ecommerce-app-etwy.vercel.app/  
 - Clients can add the desired products with a click of a Button.
